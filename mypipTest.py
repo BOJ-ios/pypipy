@@ -1,4 +1,4 @@
-import pypipy as calc
+import pypipy
 
-print(calc.addAll(2, 54, 67))
-print(calc.mulAll(2, 54, 67))
+print(pypipy.addAll(2, 54, 67))
+print(pypipy.mulAll(2, 54, 67))
