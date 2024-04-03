@@ -11,3 +11,7 @@ def mulAll(*args):
 
 def aMinusB(a, b):
     return a - b
+
+
+def info():
+    print("나만의 패키지")

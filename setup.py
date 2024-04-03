@@ -3,8 +3,8 @@ import setuptools
 setuptools.setup(
     include_package_data=True,
     name='pypipy',
-    version='0.0.3',
-    description='oss-dev my pypi 0.0.4',
+    version='0.0.4.2',
+    description='oss-dev my pypi 0.0.4.2',
     author='mingyukim',
     author_email='843850@donga.ac.kr',
     url="https://github.com/BOJ-ios/pypipy",

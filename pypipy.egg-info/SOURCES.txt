@@ -1,7 +1,8 @@
 LICENSE
 README.md
 setup.py
-calc/calculator.py
+pypipy/__init__.py
+pypipy/calculator.py
 pypipy.egg-info/PKG-INFO
 pypipy.egg-info/SOURCES.txt
 pypipy.egg-info/dependency_links.txt

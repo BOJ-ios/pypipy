@@ -1,4 +1,4 @@
-import pypipy
+from pypipy import calculator as ppp
 
-print(pypipy.addAll(2, 54, 67))
-print(pypipy.mulAll(2, 54, 67))
+print(ppp.addAll(2, 54, 67))
+print(ppp.mulAll(2, 54, 67))
