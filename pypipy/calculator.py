@@ -3,6 +3,7 @@ def addAll(*args):
 
 
 def mulAll(*args):
+    # default 1
     result = 1
     for i in range(len(args)):
         result *= args[i]
